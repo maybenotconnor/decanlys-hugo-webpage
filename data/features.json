@@ -1,0 +1,17 @@
+[
+  {
+    "title": "GenAI Data Analyst",
+    "description": "Turning your business problems into actionable solutions using data without need for a human analyst.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "Operational Consulting",
+    "description": "Unleash the full potential of your data with our dual expertise in business strategy and data analytics.",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "Custom Applications",
+    "description": "Tailor-made applications that transform your data into powerful tools, driving smarter business decisions.",
+    "image": "images/features/noun_branding_1885335.svg" 
+  }
+]
