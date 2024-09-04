@@ -6,43 +6,35 @@
     <description>Recent content in Homepage on decanlys</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Aug 2024 12:33:46 +1000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Aug 2024 12:33:46 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Generative AI</title>
       <link>http://localhost:1313/solutions/genai/</link>
       <pubDate>Thu, 08 Aug 2024 12:33:46 +1000</pubDate>
-      
       <guid>http://localhost:1313/solutions/genai/</guid>
       <description>&lt;p&gt;Turning your business problems into actionable solutions using data without need for a human analyst.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Consulting</title>
       <link>http://localhost:1313/solutions/consulting/</link>
       <pubDate>Thu, 08 Aug 2024 12:33:46 +1000</pubDate>
-      
       <guid>http://localhost:1313/solutions/consulting/</guid>
       <description>&lt;p&gt;Unleash the full potential of your data with our dual expertise in business strategy and data analytics.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Custom Applications</title>
       <link>http://localhost:1313/solutions/customapps/</link>
       <pubDate>Thu, 08 Aug 2024 12:33:46 +1000</pubDate>
-      
       <guid>http://localhost:1313/solutions/customapps/</guid>
       <description>&lt;p&gt;Tailor-made applications that transform your data into powerful tools, driving smarter business decisions.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Contact</title>
       <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/contact/</guid>
-      <description>We&amp;rsquo;d love to discuss how we can bring our solutions to you. Send an email or connect on LinkedIn to get in touch.
-Located in central Connecticut.</description>
+      <description>We&amp;rsquo;d love to discuss how we can bring our solutions to you. Send an email or connect on LinkedIn to get in touch.&#xA;Located in central Connecticut.</description>
     </item>
-    
   </channel>
 </rss>

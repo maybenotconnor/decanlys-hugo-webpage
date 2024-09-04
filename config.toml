@@ -20,9 +20,9 @@ title = "decanlys"
     show_services_button = false # show / hide the "view all services" button
 
   [params.logo]
-    # mobile = "images/logo/logo-mobile.svg"
+    mobile = "images/logo/logo-mobile.svg"
     mobile_height = "36px"
-    # desktop = "images/logo/logo.svg"
+    desktop = "images/logo/logo.png"
     desktop_height = "36px"
     alt = "decanlys"
 
