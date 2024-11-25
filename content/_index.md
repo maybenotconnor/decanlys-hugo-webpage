@@ -10,4 +10,4 @@ intro_image_hide_on_mobile: true
 
 # Decisions based on Analytics.
 
-Companies are making important choices based on hunches every day. We use facts.
+Every day, businesses make decisions based on assumptions. We do the math.
