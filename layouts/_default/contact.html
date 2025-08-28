@@ -1,54 +1,6 @@
-<!DOCTYPE html>
-<html lang="en-us">
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Contact - decanlys | AI Consulting &amp; Analytics</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" href="/favicon-32x32.svg">
-  
-  
-  
-  <link rel="stylesheet" href="/css/style.min.6fe6c4c2094a3ae1c5421ac935e2d0194d1b66f08f10cba2c1addeda4c7cead3.css">
-  
+{{ define "body_classes" }}page-contact{{ end }}
 
-  
-
-  
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair&#43;Display:wght@600&amp;family=Source&#43;Sans&#43;Pro:wght@400;700&amp;display=swap" rel="stylesheet">
-  
-</head>
-
-<body class='page page-contact'>
-  <header class="header">
-  <div class="container">
-    <div class="logo">
-      <a href="http://localhost:1313/">
-        
-        <img height="36px" alt="decanlys" src="/images/logo/logo.png" />
-        
-      </a>
-    </div>
-    <nav class="main-menu">
-      <ul>
-        
-        
-        <li class="">
-          <a href="/solutions/">Solutions</a>
-        </li>
-        
-        <li class="">
-          <a href="/contact/">Contact</a>
-        </li>
-        
-      </ul>
-    </nav>
-  </div>
-</header>
-  <main>
-    
+{{ define "main" }}
 <style>
   .contact-wrapper {
     padding: 4rem 0;
@@ -221,18 +173,14 @@
 <div class="contact-wrapper">
   <div class="container">
     <div class="contact-header">
-      <h1>Contact</h1>
+      <h1>{{ .Title }}</h1>
       <div class="lead-text">
-        <h2 id="lets-build-your-data-driven-future">Let&rsquo;s Build Your Data-Driven Future</h2>
-<p>Ready to transform your business with AI and advanced analytics? We&rsquo;re here to help. Whether you need strategic consulting, custom applications, or generative AI solutions, our team of experts is ready to partner with you.</p>
-<p>Reach out today to discuss your challenges and explore how decanlys can help you achieve your goals. We typically respond within 24 hours.</p>
-<p><strong>Located in Central Connecticut</strong> - Serving clients nationwide and globally.</p>
-
+        {{ .Content }}
       </div>
     </div>
     
     <div class="contact-cards">
-      
+      <!-- Contact Information Card -->
       <div class="contact-card card-white">
         <h3>Contact Information</h3>
         
@@ -277,7 +225,7 @@
         </div>
       </div>
       
-      
+      <!-- Let's Connect Card -->
       <div class="contact-card card-primary">
         <h3>Let's Connect</h3>
         <p>Ready to transform your business with AI-powered insights? We're here to help you navigate your data journey.</p>
@@ -306,26 +254,4 @@
     </div>
   </div>
 </div>
-
-  </main>
-  <footer class="footer">
-  <div class="container">
-    <div class="footer-copyright">
-      
-      <p>© 2024 decanlys. All rights reserved.</p>
-      
-    </div>
-    <div class="footer-menu">
-      <ul>
-        
-        <li><a href="/">Home</a></li>
-        
-        <li><a href="/contact/">Contact</a></li>
-        
-      </ul>
-    </div>
-  </div>
-</footer>
-  
-</body>
-</html>
+{{ end }}

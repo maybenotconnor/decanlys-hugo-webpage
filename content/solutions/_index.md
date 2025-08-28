@@ -1,11 +1,11 @@
 ---
 title: 'Solutions'
-description: 'Data solutions in every way'
+description: 'AI-Powered Analytics and Consulting Solutions'
 intro_image: "images/insights.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Data solutions in every way.
+# Intelligent Solutions for Modern Business
 
-We specialize in operating your business with data solutions.
+Transform your organization with our comprehensive suite of AI and analytics services. We combine cutting-edge technology with deep business expertise to deliver solutions that drive measurable results.

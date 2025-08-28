@@ -2,7 +2,7 @@ baseURL = "http://localhost:1313/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
-title = "decanlys"
+title = "decanlys | AI Consulting & Analytics"
 
 [module]
   [module.hugoVersion]
@@ -17,7 +17,7 @@ title = "decanlys"
 
   [params.homepage]
     show_contact_box = true      # show / hide the contaxt box on the homepage
-    show_services_button = false # show / hide the "view all services" button
+    show_services_button = true # show / hide the "view all services" button
 
   [params.logo]
     mobile = "images/logo/logo-mobile.svg"
@@ -51,7 +51,7 @@ title = "decanlys"
     summary_large_truncate = 120 # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
-    copyright_text = '© 2024 decanlys'
+    copyright_text = '© 2024 decanlys. All rights reserved.'
 
 [menu]
   # Main Menu
